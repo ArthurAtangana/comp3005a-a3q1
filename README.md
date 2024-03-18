@@ -11,3 +11,8 @@ and prompts the user to:
 - You must have psycopg2 and pandas installed (pip install into a venv)
 - run main.py
 - follow the instructions in the terminal (use a proper terminal to be able to enter the password)
+
+
+### Links
+
+[demonstration video](https://youtu.be/J5T2RxT-pA8)
